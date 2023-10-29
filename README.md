@@ -8,7 +8,7 @@ Hi👋 I'm Manunpat Sirijaturaporn (Mandy)
 
 🔍 Ready to explore new opportunities in the field of data analytics and business intelligence
 
-I like going out close to the nature 🌿 and a big fan of dogs 🐶
+I like going out close to nature 🌿 and a big fan of dogs 🐶
 
 📫 How to reach me: mmanunpat@gmail.com
 
