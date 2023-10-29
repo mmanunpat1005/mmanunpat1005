@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi👋 I'm Manunpat Sirijaturaporn (Mandy)
 
-<!--
-**mmanunpat1005/mmanunpat1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📈 Equipped with a Master's in Management (Business Analytics) from the University of Lausanne and a Bachelor's in Business Administration, I've engaged in extensive data analysis and research, forecasting, and creating innovative data-driven solutions
 
-Here are some ideas to get you started:
+💼 Experienced in diverse roles, from risk analysis at Accenture to academic research, teaching, and hands-on projects. Proficient in R, Python, and data visualization tools like R Shiny and R Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Multilingual (Thai, English, und ein bisschen Deutsch) and passionate about leveraging analytical skills to drive impactful innovation in the realm of quantitative analysis
+
+🔍 Ready to explore new opportunities in the field of data analytics and business intelligence
+
+I like going out close to the nature 🌿 and a big fan of dogs 🐶
+
+📫 How to reach me: mmanunpat@gmail.com
+
+
